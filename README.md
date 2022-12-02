@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I'm Célia (she/her) 👋 
+
+I'm a Software Engineer at the [Mathis Lab of Adaptative Motor Control](http://www.mackenziemathislab.org/) in EPFL, at the Geneva Biotech Campus. 
+
+- 🧠 EPFL alumna 🇨🇭, specialization in computational neurosciences, Master's thesis at Harvard University (Uchida lab) 🇺🇸.
+- 🦓 Working on [CEBRA](https://cebra.ai/), a new representation learning algorithm to obtain embeddings of jointly recorded behavioral & neural data.
+- 🌐 Check out my [website](https://celiabenquet.netlify.app/).
 
 <!--
 **CeliaBenquet/CeliaBenquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
