@@ -1,9 +1,10 @@
 ### Hi there I'm Célia (she/her) 👋 
 
-I'm a Software Engineer at the [Mathis Lab of Adaptative Motor Control](http://www.mackenziemathislab.org/) in EPFL, at the Geneva Biotech Campus. 
+I'm a first-year PhD student at the [Mathis Lab of Adaptative Intelligence](http://www.mackenziemathislab.org/) 🐭. 
 
-- 👩‍🎓 EPFL alumna 🇨🇭, specialization in computational neurosciences 🧠, Master's thesis at Harvard University (Uchida lab) 🇺🇸.
-- 🦓 Working on [CEBRA](https://cebra.ai/), a new representation learning algorithm to obtain embeddings of jointly recorded behavioral & neural data.
+🔭 I'm currently working on understanding how the brain represents external features in its environment and constructs internal models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such neural representations while learning a task. To do so, I relate motor control 💪 and vision 👀 by exploring the processes at play in active sensing.
+
+- 👩‍🎓 EPFL alumna 🇨🇭, specialization in computational neurosciences 🧠 Master's thesis at the Uchida Lab (Harvard University), on the neural basis of belief state computation in the brain.
 - 🌐 Check out my [website](https://celiabenquet.netlify.app/).
 
 <!--
