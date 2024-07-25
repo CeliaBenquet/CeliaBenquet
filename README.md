@@ -1,10 +1,15 @@
 ### Hi there I'm Célia (she/her) 👋 
 
+[![Linkedin: CeliaBenquet](https://img.shields.io/badge/-CeliaBenquet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/celiabenquet/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=celia_bqt&style=social)](https://x.com/celia_bqt)
+
+
 I'm a second-year PhD candidate at the [Mathis Lab of Adaptative Intelligence](http://www.mackenziemathislab.org/) 🐭. 
 
 🔭 I'm currently working on understanding how the brain represents external features in its environment and constructs internal models to generalize and extract the relevant information from it 🧩. I have a strong interest in investigating the dynamics 💫 taking place during the formation of such neural representations while learning a task. To do so, I relate motor control 💪 and vision 👀 by exploring the processes at play in active sensing.
 
-- 👩‍🎓 EPFL alumna 🇨🇭, specialization in computational neurosciences 🧠 Master's thesis at the Uchida Lab (Harvard University), on the neural basis of belief state computation in the brain.
+- 👩‍🎓 EPFL alumna 🇨🇭, specialization in computational neurosciences 🧠
+- Master's thesis at the Uchida Lab (Harvard University), on the neural basis of belief state computation in the brain.
 - 🌐 Check out my [website](https://celiabenquet.netlify.app/).
 
 <!--
