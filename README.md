@@ -1,7 +1,7 @@
 ### Hi there I'm Célia (she/her) 👋 
 
 [![Linkedin: CeliaBenquet](https://img.shields.io/badge/-CeliaBenquet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/celiabenquet/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=celia_bqt&style=social)](https://x.com/celia_bqt)
+[![Bluesky: celia-bqt](https://img.shields.io/badge/Bluesky-celia__bqt-blue?style=flat-square&logo=data:image/png;base64,<BASE64_ENCODED_IMAGE>)](https://bsky.app/profile/celia-bqt.bsky.social)
 
 
 I'm a second-year PhD candidate at the [Mathis Lab of Adaptative Intelligence](http://www.mackenziemathislab.org/) 🐭. 
